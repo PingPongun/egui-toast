@@ -16,7 +16,7 @@ keywords = ["egui", "toast", "notification"]
 members = ["demo"]
 
 [dependencies]
-egui = { version = "0.22.0", default-features = false }
+egui = { version = "0.23.0", default-features = false }
 lazy_static = "1.4.0"
 crossbeam-channel = "0.5.8"
 
